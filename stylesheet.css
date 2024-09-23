@@ -1,0 +1,123 @@
+h1, h2, h4, h5 {
+    font-family: "Sedan SC", serif;
+    font-weight: 600;
+}
+
+
+h3, p {
+    font-family: "Vollkorn", serif;
+    font-weight: 400;
+}
+
+p {
+    font-size: 100%
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.image {
+    background: #D2D1C6;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    border-radius: 50%;
+    padding-top: 50px;
+}
+
+.education, .awards, .volunteer, .certificates, .skills {
+    background: #E9DED8;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.name {
+    background: #D2D1C6;
+    display: inline-block;
+    text-align: center;
+    line-height: 3px;
+    min-width: 100%;
+    padding: 25px 0 25px 0;
+    margin: 0;
+    border: 0;
+}
+
+.education {
+    float: left;
+    text-align: center;
+    min-width: 50%;
+    min-height: 320px;
+    padding-top: 8px;
+    margin-top: 0;
+}
+
+.awards {
+    float: right;
+    text-align: center;
+    min-width: 50%;
+    min-height: 320px;
+    padding-top: 8px;
+    margin-top: 0;
+}
+
+.volunteer {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 15px;
+}
+
+.certificates {
+    float: left;
+    text-align: center;
+    min-width: 50%;
+    min-height: 320px;
+    padding-top: 8px;
+}
+
+.html {
+    line-height: 5px;
+}
+
+.web {
+    line-height: 5px;
+}
+
+.skills {
+    float: left;
+    text-align: center;
+    min-width: 50%;
+    min-height: 320px;
+    padding-top: 8px;
+}
+
+footer {
+    background: #D2D1C6;
+    display: inline-block;
+    min-width: 100%;
+    text-align: center;
+}
+
+a {
+    color: #c98fb1;
+}
+
+a:hover {
+    text-decoration: none;
+    background: #E7B1D0;
+}
+
+a:visited {
+    color: #bd6496;
+}
